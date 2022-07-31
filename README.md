@@ -1,3 +1,7 @@
+# This is an archive of Gitleaks 7.6.1
+All copyright remains with @zricethezav
+
+
 
 ```
 ○
